@@ -50,7 +50,7 @@ As we checked the maps, we observed some pedestrian crossing that were not actua
 
  
 
-### Fast RCNN , Ross Girshick et al. https://arxiv.org/abs/1504.08083 
+### Fast RCNN ,Ross Girshick et al. https://arxiv.org/abs/1504.08083  
 
 <img src="miscel_images/fastrcnn.png" align="left" width="400" height="400">
 
@@ -60,7 +60,7 @@ As we checked the maps, we observed some pedestrian crossing that were not actua
 
  
 
-### Faster RCNN, Shaoqing Ren et al. https://arxiv.org/abs/1506.01497 
+### Faster RCNN ,Shaoqing Ren et al. https://arxiv.org/abs/1506.01497 
 
 <img src="miscel_images/frcnn.png" align="left" width="300" height="300">
 
