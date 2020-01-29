@@ -38,7 +38,7 @@ As we checked the maps, we observed some pedestrian crossing that were not actua
 
 ### RCNN (Regional CNN, Ross Girshick et al. https://arxiv.org/abs/1311.2524) 
 
-<img src="miscel_images/rcnn.png" align="left" width="600" height="600">
+<img src="miscel_images/rcnn.png" align="left" width="400" height="400">
 
  
 
@@ -52,7 +52,7 @@ As we checked the maps, we observed some pedestrian crossing that were not actua
 
 ### Fast RCNN , Ross Girshick et al. https://arxiv.org/abs/1504.08083 
 
-<img src="miscel_images/fastrcnn.png" align="left" width="500" height="500">
+<img src="miscel_images/fastrcnn.png" align="left" width="400" height="400">
 
 - Faster than RCNN 
 
@@ -62,7 +62,7 @@ As we checked the maps, we observed some pedestrian crossing that were not actua
 
 ### Faster RCNN, Shaoqing Ren et al. https://arxiv.org/abs/1506.01497 
 
-<img src="miscel_images/frcnn.png" align="left" width="400" height="400">
+<img src="miscel_images/frcnn.png" align="left" width="300" height="300">
 
 - Faster than both above variations 
 
@@ -84,18 +84,18 @@ Image patches of helsinki city were generated using the code **generate_datasets
 
 Frcnn implementation is based on https://github.com/kbardool/keras-frcnn . Annotation file was parsed in the form of text file. The xml file generated from labelImg is converted to csv file using **create_annotate_csvfile.ipynb**. The code to generate the annotation file in my context(csv to txt) is available in **create_annotate_textfile.ipynb**. The parameters settings is available in **config.pickle**
 
-<img src="test_images/test_0.png" align="left" width="400" height="400">
-<img src="results_imgs/0.png" align="right" width="400" height="400">
+<img src="test_images/test_0.png" align="left" width="300" height="300">
+<img src="results_imgs/0.png" align="middle" width="300" height="300">
 
 
-<img src="test_images/test_1.png" align="left" width="400" height="400">
-<img src="results_imgs/1.png" align="right" width="400" height="400">
+<img src="test_images/test_1.png" align="left" width="300" height="300">
+<img src="results_imgs/1.png" align="middle" width="300" height="300">
 
-<img src="test_images/test_2.png" align="left" width="400" height="400">
-<img src="results_imgs/2.png" align="right" width="400" height="400">
+<img src="test_images/test_2.png" align="left" width="300" height="300">
+<img src="results_imgs/2.png" align="middle" width="300" height="300">
 
-<img src="test_images/test_3.png" align="left" width="400" height="400">
-<img src="results_imgs/3.png" align="right" width="400" height="400">
+<img src="test_images/test_3.png" align="left" width="300" height="300">
+<img src="results_imgs/3.png" align="middle" width="300" height="300">
 
 ## Extracting latitude and longitude 
 
