@@ -38,8 +38,6 @@ As we checked the maps, we observed some pedestrian crossing that were not actua
 
 ### RCNN (Regional CNN, Ross Girshick et al. https://arxiv.org/abs/1311.2524) 
 
-<img src="miscel_images/rcnn.png" align="left" width="400" height="400">
-
  
 
 - Uses selective search algorithm to extract just 2000 regions from the image as region proposals 
@@ -52,8 +50,6 @@ As we checked the maps, we observed some pedestrian crossing that were not actua
 
 ### Fast RCNN ,Ross Girshick et al. https://arxiv.org/abs/1504.08083  
 
-<img src="miscel_images/fastrcnn.png" align="left" width="400" height="400">
-
 - Faster than RCNN 
 
 - Images are fed to convnets to obtain features, identify the region of proposal, apply ROI pooling layer to convert to fixed size for each proposal, apply fully connected layers with SoftMax and bounding box regressor 
@@ -61,8 +57,6 @@ As we checked the maps, we observed some pedestrian crossing that were not actua
  
 
 ### Faster RCNN ,Shaoqing Ren et al. https://arxiv.org/abs/1506.01497 
-
-<img src="miscel_images/frcnn.png" align="left" width="300" height="300">
 
 - Faster than both above variations 
 
